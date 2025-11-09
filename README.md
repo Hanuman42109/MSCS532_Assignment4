@@ -1,10 +1,9 @@
-# Assignment 4 - Heap Data Structures
+# Heap Data Structures
 
 ## Files included
 - heapsort.py
 - priority_queue.py
 - scheduler_sim.py
-- report.md
 
 ## Quick start
 Run the demos:
